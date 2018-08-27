@@ -2,14 +2,14 @@
 title: "First big trip - My Indian Adventure: Part 1"
 author: Vivek Katial
 date: '2015-03-01'
-description: "My journey from Kashmir to Kanyakumari"
+description: "My journey from Singapore to India, from Kashmir to Kanyakumari, then to Australia for the Cricket World Cup"
 slug: first-big-trip-my-indian-adventure
 categories: []
 tags:
   - Travel
-featured_image: '/images/travel/india-leh.jpg'
+featured_image: '/images/travel/india-wedding.jpg'
 ---
-Since this was a really long trip I am going to divide up into **three** blog posts. This is post one.
+Since this was a really long trip I am going to divide up into **four** blog posts. This is post one.
 
 
 ## How it all started?
@@ -43,6 +43,32 @@ Here is the loose itenirary I followed:
 - 3 days Melbourne
 
 **In total 94 days away.**
+
+## First Stop: Singapore
+
+Singapore is a fantastic, tiny and **humid** country. Most often it seen as just a place to stop on the way to somewhere else however, in this trip I sent 5 days exploring the little city-country. Despite being in Asia, Singapore is still quite expensive, infact the most expensive place in Asia I have been other than Tokyo.
+
+I was lucky enough to have family living in Singapore and as such had free accomodation (infact one of the cousins getting married in India in the same trip).
+
+Singapore has an awesome public transport system, making navigating and travelling around extremely easy and efficient. You can use the busses (which are *ALWAYS* on time - seriously Auckland Transport could learn a thing or two) or the great Singapore MRT (Mass Rapid Transit).  Both bus and MRT use a single, contactless payment system: the EZ-Link card.
+
+### Where I went?
+- Sentosa Island:
+    - Universal Studios and Hard-Rock Cafe
+- Marina Bay Sands
+- China Town
+- Orchard
+- Gardens by the Bay
+- **lots and lots of food**
+
+## Second Stop: New Delhi and Wedding 1
+
+I land in India and the first thing I notice is a thick layer of pollution cloud resting over Delhi, I make my way through the chaotic airport, pick up a few bottles of Glenlivet and head out of the airport to get picked up by my cousin Nipun and his fiance, Chinky.
+
+The next few days go into helping out with the wedding, picking up guests and doing lots of shopping. An indian wedding is an extraorbitant affair, spreading over 5 days. The days are filled with ancient hindu rituals and endless laughter and banter within the family and evenings with dancing, eating and a whole lot of drinking (especially at Punjabi weddings).
+
+In my next post I will talk about heading to the northern-most part of India, *Leh*.
+
 
 
 

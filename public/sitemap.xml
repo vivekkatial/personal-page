@@ -24,6 +24,13 @@
   </url>
   
   <url>
+    <loc>/travel-posts/first-big-trip-my-indian-adventure-part2/</loc>
+    <lastmod>2015-03-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/travel-posts/first-big-trip-my-indian-adventure/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -85,7 +92,7 @@
   
   <url>
     <loc>/tags/travel/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-03-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
