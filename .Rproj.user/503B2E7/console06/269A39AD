@@ -1,0 +1,21 @@
+git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.DS_Store[m
+	[31m.Rhistory[m
+	[31m.Rproj.user/[m
+	[31mconfig.toml[m
+	[31mcontent/[m
+	[31mindex.Rmd[m
+	[31mpersonal_page.Rproj[m
+	[31mpublic/[m
+	[31mstatic/[m
+	[31mthemes/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git add -A
