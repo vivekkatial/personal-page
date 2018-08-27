@@ -48,8 +48,8 @@ How it all started? I was in my 2nd year of University studying a BE(Hons)/BSc c
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>Social media links are in the header otherwise fill out the form below. I have used Formspree to make the form so they will ask you to confirm your email.
-Your Name Email Address An email address is required.  Message   </description>
+      <description>Social media links are in the header otherwise fill out the form below. I have used netlifys form service to make the form so they will ask you to confirm your email.
+ Your Name:   Your Email:   Message:    Send  </description>
     </item>
     
   </channel>

@@ -9,6 +9,20 @@ menu:
 ---
 
 
-Social media links are in the header otherwise fill out the form below. I have used Formspree to make the form so they will ask you to confirm your email.
+Social media links are in the header otherwise fill out the form below. I have used netlifys form service to make the form so they will ask you to confirm your email.
 
-{{< form-contact action="https://formspree.io/vivekkatial@gmail.com"  >}}
+<form name="contact" method="POST" netlify>
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <div data-netlify-recaptcha></div>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
