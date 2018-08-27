@@ -2,7 +2,7 @@
 title: Contact
 description: If you ever want to contact me, feel free to hit me up on any of my handles otherwise feel free to fill out the form below.
 type: page
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: "/images/space-bg.jpeg"
 menu:
   main: {}
 

@@ -10,55 +10,6 @@
   </url>
   
   <url>
-    <loc>/travel-posts/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/travel-posts/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/travel-posts/chapter-5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/travel-posts/chapter-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/travel-posts/chapter-3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/travel-posts/chapter-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/travel-posts/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/tech-posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -68,6 +19,13 @@
   <url>
     <loc>/travel-posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/travel-posts/first-big-trip-my-indian-adventure/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -119,15 +77,15 @@
   </url>
   
   <url>
-    <loc>/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
+    <loc>/tags/travel/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

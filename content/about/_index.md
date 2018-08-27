@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Currently a Data Scientist and one of the first 5 employees in an analytics start-up, Quantiful. I am a super nerd who loves math, coding and travel. I enjoy getting my hands  dirty in data and am always looking for opportunities where data can be used to make the world a better place to live."
-featured_image: ''
+featured_image: "/images/space-bg.jpeg"
 ---
 {{< figure src="/images/florence.jpg" title="Here is a picture of me at the Piazzale Michelangelo in Florence." >}}
 

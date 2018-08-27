@@ -1,26 +1,11 @@
-hugo serve
-Error: Unable to locate Config file. Perhaps you need to create a new site.
-       Run `hugo help new` for details.
-
-]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page/content]0;~/Documents/personal_page/contentViveks-MacBook-Pro:content vivekkatial$ cd ..
-]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ hugo serve
-[?25lBuilding sites … panic: Too many homes
-
-goroutine 106 [running]:
-github.com/gohugoio/hugo/hugolib.(*HugoSites).createMissingPages(0xc4200d1a00, 0x0, 0x0)
-	/private/tmp/hugo-20180820-41228-9sxd98/hugo-0.47.1/src/github.com/gohugoio/hugo/hugolib/hugo_sites.go:455 +0x12ae
-github.com/gohugoio/hugo/hugolib.(*HugoSites).assemble(0xc4200d1a00, 0xc420a6dee0, 0x0, 0x0)
-	/private/tmp/hugo-20180820-41228-9sxd98/hugo-0.47.1/src/github.com/gohugoio/hugo/hugolib/hugo_sites_build.go:191 +0x205
-github.com/gohugoio/hugo/hugolib.(*HugoSites).Build(0xc4200d1a00, 0x0, 0xc420a56d40, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0)
-	/private/tmp/hugo-20180820-41228-9sxd98/hugo-0.47.1/src/github.com/gohugoio/hugo/hugolib/hugo_sites_build.go:65 +0x168
-github.com/gohugoio/hugo/commands.(*commandeer).buildSites(0xc4200e8840, 0x0, 0x0)
-	/private/tmp/hugo-20180820-41228-9sxd98/hugo-0.47.1/src/github.com/gohugoio/hugo/commands/hugo.go:623 +0x5b
-github.com/gohugoio/hugo/commands.(*commandeer).fullBuild.func3(0x8, 0x4d01d18)
-	/private/tmp/hugo-20180820-41228-9sxd98/hugo-0.47.1/src/github.com/gohugoio/hugo/commands/hugo.go:298 +0x2e
-github.com/gohugoio/hugo/vendor/golang.org/x/sync/errgroup.(*Group).Go.func1(0xc420a53580, 0xc420a56d10)
-	/private/tmp/hugo-20180820-41228-9sxd98/hugo-0.47.1/src/github.com/gohugoio/hugo/vendor/golang.org/x/sync/errgroup/errgroup.go:58 +0x57
-created by github.com/gohugoio/hugo/vendor/golang.org/x/sync/errgroup.(*Group).Go
-	/private/tmp/hugo-20180820-41228-9sxd98/hugo-0.47.1/src/github.com/gohugoio/hugo/vendor/golang.org/x/sync/errgroup/errgroup.go:55 +0x66
-]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ grep -rnw '/path/to/somewhere/' -e 'pattern'
-grep: /path/to/somewhere/: No such file or directory
-]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ grep -rnw '/path/to/somewhere/' -e 'pattern'hugo serve[K[5Pcd ..hugo serve[2Pgit pushcommit -m "Initial Website Commit"add -A[K
+git pushcommit -m "Initial Website Commit"push[K[K[K[K[K[K[K[K[K[KViveks-MacBook-Pro:personal_page vivekkatial$ mv [K[K[Kcp themes/gohugo-theme-ananke/.[K
+.gitignore    README.md     data/         images/       package.json  static/       
+LICENSE.md    archetypes/   exampleSite/  layouts/      src/          theme.toml    
+Viveks-MacBook-Pro:personal_page vivekkatial$ cp themes/gohugo-theme-ananke/layouts/ .[K[K[K/* layouts/.
+cp: themes/gohugo-theme-ananke/layouts/_default is a directory (not copied).
+cp: themes/gohugo-theme-ananke/layouts/page is a directory (not copied).
+cp: themes/gohugo-theme-ananke/layouts/partials is a directory (not copied).
+cp: themes/gohugo-theme-ananke/layouts/post is a directory (not copied).
+cp: themes/gohugo-theme-ananke/layouts/shortcodes is a directory (not copied).
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ cp themes/gohugo-theme-ananke/layouts/* layouts/.[Kcp -rf themes/gohugo-theme-ananke/layouts/* layouts/.
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ cp -rf themes/gohugo-theme-ananke/layouts/* layouts/.[4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push[Kcommit -m "Initial Website Commit"add -A[K
