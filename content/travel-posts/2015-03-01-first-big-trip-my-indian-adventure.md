@@ -16,7 +16,7 @@ Since this was a really long trip I am going to divide up into **four** blog pos
 
 I was in my 2nd year of University studying a BE(Hons)/BSc conjoint. I really should've been looking for a summer internship, but two of my close-family members were getting hitched! There was no way I could've missed either of their weddings and it was the perfect excuse for me to go travel. 
 
-It was my first experience travelling alone overseas, I was 20 years old, had zero responsibilities, a small bunch of savings from tutoring for a couple of years and an eagerness to see the world. Once I had my heart set on travelling I made up a loose itenirary, booked a bunch of flights for the day after exams and flew off on an adventure which would make fall in love with travel and fall into a love-hate relationship with my home country.
+It was my first experience travelling alone overseas, I was 20 years old, had zero responsibilities, a small bunch of savings from tutoring for a couple of years and an eagerness to see the world. Once I had my heart set on travelling I made up a loose itenirary, booked a bunch of flights for the day after exams and flew off on an adventure which would make me fall in love with travel and also fall into a love-hate relationship with my home country.
 
 ## What happened?
 
