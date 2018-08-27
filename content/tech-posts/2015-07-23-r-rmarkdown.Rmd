@@ -3,7 +3,7 @@ title: "Test R Markdown Script"
 author: "Frida Gomam"
 date: 2018-07-23T21:13:14-05:00
 categories: ["R"]
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/tech/R.png"
 tags: ["R Markdown", "plot", "regression"]
 ---
 

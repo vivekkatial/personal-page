@@ -1,5 +1,5 @@
 ---
-title: First big trip - My Indian Adventure
+title: First big trip - My Indian Adventure: Part 1
 author: Vivek Katial
 date: '2015-03-01'
 description: "My journey from Kashmir to Kanyakumari"
@@ -11,6 +11,8 @@ featured_image: '/images/travel/india-leh.jpg'
 ---
 
 ## How it all started?
+
+Since this was a really long trip I am going to divide up into three blog posts.
 
 I was in my 2nd year of University studying a BE(Hons)/BSc conjoint. I really should've been looking for a summer internship, but two of my close-family members were getting hitched! There was no way I could've missed either of their weddings and it was the perfect excuse for me to go travel. 
 
@@ -41,5 +43,7 @@ Here is the loose itenirary I followed:
 - 3 days Melbourne
 
 **In total 94 days away.**
+
+
 
 
