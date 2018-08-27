@@ -115,3 +115,64 @@ remote: Resolving deltas:   0% (0/39)   [Kremote: Resolving deltas:   2% (1/39
 To https://github.com/vivekkatial/personal-page.git
    eaa77e7..9f533d8  master -> master
 ]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git pushcommit -m "Initial Website Commit"push[Kadd -Acp -rf themes/gohugo-theme-ananke/layouts/* layouts/.[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit add -A[K
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git add -A[2Ppushcommit -m "Initial Website Commit"
+[master 52fc9e6] Initial Website Commit
+ 60 files changed, 9972 insertions(+), 8 deletions(-)
+ delete mode 100644 themes-old.zip
+ create mode 100644 themes/gohugo-theme-ananke/.gitignore
+ create mode 100644 themes/gohugo-theme-ananke/LICENSE.md
+ create mode 100644 themes/gohugo-theme-ananke/README.md
+ create mode 100644 themes/gohugo-theme-ananke/archetypes/default.md
+ create mode 100644 themes/gohugo-theme-ananke/data/webpack_assets.json
+ create mode 100644 themes/gohugo-theme-ananke/images/screenshot.png
+ create mode 100644 themes/gohugo-theme-ananke/images/tn.png
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/404.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/_default/baseof.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/_default/list.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/_default/single.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/_default/taxonomy.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/_default/terms.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/index.html (93%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/page/single.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/menu-contextual.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/page-header.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/site-favicon.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/site-footer.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/site-header.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/site-navigation.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/site-scripts.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/social-follow.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/summary-with-image.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/summary.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/svg/facebook.svg (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/svg/github.svg (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/svg/instagram.svg (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/svg/linkedin.svg (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/svg/twitter.svg (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/svg/youtube.svg (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/partials/tags.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/post/list.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/post/summary-with-image.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/post/summary.html (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/robots.txt (100%)
+ rename {layouts => themes/gohugo-theme-ananke/layouts}/shortcodes/form-contact.html (100%)
+ create mode 100644 themes/gohugo-theme-ananke/package.json
+ create mode 100644 themes/gohugo-theme-ananke/src/css/_code.css
+ create mode 100644 themes/gohugo-theme-ananke/src/css/_hugo-internal-templates.css
+ create mode 100644 themes/gohugo-theme-ananke/src/css/_social-icons.css
+ create mode 100644 themes/gohugo-theme-ananke/src/css/_styles.css
+ create mode 100644 themes/gohugo-theme-ananke/src/css/_tachyons.css
+ create mode 100644 themes/gohugo-theme-ananke/src/css/main.css
+ create mode 100644 themes/gohugo-theme-ananke/src/css/postcss.config.js
+ create mode 100644 themes/gohugo-theme-ananke/src/js/main.js
+ create mode 100644 themes/gohugo-theme-ananke/src/package-lock.json
+ create mode 100644 themes/gohugo-theme-ananke/src/package.json
+ create mode 100644 themes/gohugo-theme-ananke/src/readme.md
+ create mode 100644 themes/gohugo-theme-ananke/src/webpack.config.js
+ create mode 100644 themes/gohugo-theme-ananke/src/yarn.lock
+ create mode 100644 themes/gohugo-theme-ananke/static/dist/css/app.ab4b67a3ea25990fa8279f3b7ef08b61.css
+ create mode 100644 themes/gohugo-theme-ananke/static/dist/js/app.3fc0f988d21662902933.js
+ create mode 100644 themes/gohugo-theme-ananke/static/images/gohugo-default-sample-hero-image.jpg
+ create mode 100644 themes/gohugo-theme-ananke/theme.toml
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git commit -m "Initial Website Commit"add -A[K[2Ppushadd -A
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git add -Acommit -m "Initial Website Commit"add -A[K
