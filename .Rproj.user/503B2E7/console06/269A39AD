@@ -19,3 +19,404 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 ]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git add -A
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	[32mnew file:   .DS_Store[m
+	[32mnew file:   .Rhistory[m
+	[32mnew file:   .Rproj.user/503B2E7/console06/269A39AD[m
+	[32mnew file:   .Rproj.user/503B2E7/console06/269A39AD.env[m
+	[32mnew file:   .Rproj.user/503B2E7/console06/INDEX001[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/prop/1BF53A85[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/prop/31EA0586[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/prop/51E9E6AF[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/prop/80094E10[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/prop/82107A23[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/prop/8F36F150[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/prop/9941A278[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/prop/C8879AB1[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/prop/E05B8B03[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/prop/INDEX[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/2CFB9038-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/2EB60AB-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/49716267-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/525F7E8[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/525F7E8-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/966E28F2[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/966E28F2-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/9981F957-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/B45CB085-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/BCC1FDCC-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/C1D3E798[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/C1D3E798-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/CB89AC18-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/D187517E[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/D187517E-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/E7ECAFC1-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/ECA2215-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/ED5E2978-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/F60501F4-contents[m
+	[32mnew file:   .Rproj.user/503B2E7/sources/s-9E3739C0/lock_file[m
+	[32mnew file:   .Rproj.user/shared/notebooks/A419490A-2015-07-23-r-rmarkdown/1/s/chunks.json[m
+	[32mnew file:   .Rproj.user/shared/notebooks/patch-chunk-names[m
+	[32mnew file:   .Rproj.user/shared/notebooks/paths[m
+	[32mnew file:   config.toml[m
+	[32mnew file:   content/_index.md[m
+	[32mnew file:   content/about/_index.md[m
+	[32mnew file:   content/contact.md[m
+	[32mnew file:   content/post/2015-07-23-r-rmarkdown.Rmd[m
+	[32mnew file:   content/post/2015-07-23-r-rmarkdown.html[m
+	[32mnew file:   content/post/_index.md[m
+	[32mnew file:   content/post/chapter-1.md[m
+	[32mnew file:   content/post/chapter-2.md[m
+	[32mnew file:   content/post/chapter-3.md[m
+	[32mnew file:   content/post/chapter-4.md[m
+	[32mnew file:   content/post/chapter-5.md[m
+	[32mnew file:   content/post/chapter-6.md[m
+	[32mnew file:   index.Rmd[m
+	[32mnew file:   personal_page.Rproj[m
+	[32mnew file:   public/404.html[m
+	[32mnew file:   public/about/index.html[m
+	[32mnew file:   public/about/index.xml[m
+	[32mnew file:   public/about/page/1/index.html[m
+	[32mnew file:   public/categories/index.html[m
+	[32mnew file:   public/categories/index.xml[m
+	[32mnew file:   public/categories/r/index.html[m
+	[32mnew file:   public/categories/r/index.xml[m
+	[32mnew file:   public/contact/index.html[m
+	[32mnew file:   public/dist/css/app.ab4b67a3ea25990fa8279f3b7ef08b61.css[m
+	[32mnew file:   public/dist/js/app.3fc0f988d21662902933.js[m
+	[32mnew file:   public/images/Pope-Edouard-de-Beaumont-1844.jpg[m
+	[32mnew file:   public/images/Victor_Hugo-Hunchback.jpg[m
+	[32mnew file:   public/images/esmeralda.jpg[m
+	[32mnew file:   public/images/florence.jpg[m
+	[32mnew file:   public/images/gohugo-default-sample-hero-image.jpg[m
+	[32mnew file:   public/index.html[m
+	[32mnew file:   public/index.xml[m
+	[32mnew file:   public/post/2015-07-23-r-rmarkdown.Rmd[m
+	[32mnew file:   public/post/2015-07-23-r-rmarkdown/index.html[m
+	[32mnew file:   public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[m
+	[32mnew file:   public/post/chapter-1/index.html[m
+	[32mnew file:   public/post/chapter-2/index.html[m
+	[32mnew file:   public/post/chapter-3/index.html[m
+	[32mnew file:   public/post/chapter-4/index.html[m
+	[32mnew file:   public/post/chapter-5/index.html[m
+	[32mnew file:   public/post/chapter-6/index.html[m
+	[32mnew file:   public/post/index.html[m
+	[32mnew file:   public/post/index.xml[m
+	[32mnew file:   public/post/page/1/index.html[m
+	[32mnew file:   public/post/page/2/index.html[m
+	[32mnew file:   public/post/page/3/index.html[m
+	[32mnew file:   public/robots.txt[m
+	[32mnew file:   public/sitemap.xml[m
+	[32mnew file:   public/tags/index.html[m
+	[32mnew file:   public/tags/index.xml[m
+	[32mnew file:   public/tags/plot/index.html[m
+	[32mnew file:   public/tags/plot/index.xml[m
+	[32mnew file:   public/tags/r-markdown/index.html[m
+	[32mnew file:   public/tags/r-markdown/index.xml[m
+	[32mnew file:   public/tags/regression/index.html[m
+	[32mnew file:   public/tags/regression/index.xml[m
+	[32mnew file:   public/tags/scene/index.html[m
+	[32mnew file:   public/tags/scene/index.xml[m
+	[32mnew file:   static/images/Pope-Edouard-de-Beaumont-1844.jpg[m
+	[32mnew file:   static/images/Victor_Hugo-Hunchback.jpg[m
+	[32mnew file:   static/images/esmeralda.jpg[m
+	[32mnew file:   static/images/florence.jpg[m
+	[32mnew file:   static/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[m
+	[32mnew file:   themes/gohugo-theme-ananke/.gitignore[m
+	[32mnew file:   themes/gohugo-theme-ananke/LICENSE.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/README.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/archetypes/default.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/data/webpack_assets.json[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/config.toml[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/content/_index.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/content/about/_index.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/content/contact.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/content/post/_index.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/content/post/chapter-1.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/content/post/chapter-2.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/content/post/chapter-3.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/content/post/chapter-4.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/content/post/chapter-5.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/content/post/chapter-6.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/static/images/Pope-Edouard-de-Beaumont-1844.jpg[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/static/images/Victor_Hugo-Hunchback.jpg[m
+	[32mnew file:   themes/gohugo-theme-ananke/exampleSite/static/images/esmeralda.jpg[m
+	[32mnew file:   themes/gohugo-theme-ananke/images/screenshot.png[m
+	[32mnew file:   themes/gohugo-theme-ananke/images/tn.png[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/404.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/_default/baseof.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/_default/list.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/_default/single.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/_default/taxonomy.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/_default/terms.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/index.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/page/single.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/menu-contextual.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/page-header.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/site-favicon.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/site-footer.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/site-header.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/site-navigation.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/site-scripts.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/social-follow.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/summary-with-image.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/summary.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/svg/facebook.svg[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/svg/github.svg[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/svg/instagram.svg[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/svg/linkedin.svg[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/svg/twitter.svg[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/svg/youtube.svg[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/partials/tags.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/post/list.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/post/summary-with-image.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/post/summary.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/robots.txt[m
+	[32mnew file:   themes/gohugo-theme-ananke/layouts/shortcodes/form-contact.html[m
+	[32mnew file:   themes/gohugo-theme-ananke/package.json[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/css/_code.css[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/css/_hugo-internal-templates.css[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/css/_social-icons.css[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/css/_styles.css[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/css/_tachyons.css[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/css/main.css[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/css/postcss.config.js[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/js/main.js[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/package-lock.json[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/package.json[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/readme.md[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/webpack.config.js[m
+	[32mnew file:   themes/gohugo-theme-ananke/src/yarn.lock[m
+	[32mnew file:   themes/gohugo-theme-ananke/static/dist/css/app.ab4b67a3ea25990fa8279f3b7ef08b61.css[m
+	[32mnew file:   themes/gohugo-theme-ananke/static/dist/js/app.3fc0f988d21662902933.js[m
+	[32mnew file:   themes/gohugo-theme-ananke/static/images/gohugo-default-sample-hero-image.jpg[m
+	[32mnew file:   themes/gohugo-theme-ananke/theme.toml[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/503B2E7/console06/269A39AD[m
+
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git statusadd -Astatuspush -u origin masterremote add origin https://github.com/vivekkatial//personal-page.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Ppush -u origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+error: src refspec master does not match any.
+error: failed to push some refs to 'https://github.com/vivekkatial/personal-page.git'
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git push -u origin master[Kgit commit -m "Initial Wbe[K[Kebsite C omm[K[K[K[Kommit"
+[master (root-commit) 1ebf2c1] Initial Website Commit
+ 171 files changed, 18685 insertions(+)
+ create mode 100644 .DS_Store
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/503B2E7/console06/269A39AD
+ create mode 100644 .Rproj.user/503B2E7/console06/269A39AD.env
+ create mode 100644 .Rproj.user/503B2E7/console06/INDEX001
+ create mode 100644 .Rproj.user/503B2E7/sources/prop/1BF53A85
+ create mode 100644 .Rproj.user/503B2E7/sources/prop/31EA0586
+ create mode 100644 .Rproj.user/503B2E7/sources/prop/51E9E6AF
+ create mode 100644 .Rproj.user/503B2E7/sources/prop/80094E10
+ create mode 100644 .Rproj.user/503B2E7/sources/prop/82107A23
+ create mode 100644 .Rproj.user/503B2E7/sources/prop/8F36F150
+ create mode 100644 .Rproj.user/503B2E7/sources/prop/9941A278
+ create mode 100644 .Rproj.user/503B2E7/sources/prop/C8879AB1
+ create mode 100644 .Rproj.user/503B2E7/sources/prop/E05B8B03
+ create mode 100644 .Rproj.user/503B2E7/sources/prop/INDEX
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/2CFB9038-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/2EB60AB-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/49716267-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/525F7E8
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/525F7E8-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/966E28F2
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/966E28F2-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/9981F957-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/B45CB085-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/BCC1FDCC-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/C1D3E798
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/C1D3E798-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/CB89AC18-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/D187517E
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/D187517E-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/E7ECAFC1-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/ECA2215-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/ED5E2978-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/F60501F4-contents
+ create mode 100644 .Rproj.user/503B2E7/sources/s-9E3739C0/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/A419490A-2015-07-23-r-rmarkdown/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 config.toml
+ create mode 100644 content/_index.md
+ create mode 100644 content/about/_index.md
+ create mode 100644 content/contact.md
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.html
+ create mode 100644 content/post/_index.md
+ create mode 100644 content/post/chapter-1.md
+ create mode 100644 content/post/chapter-2.md
+ create mode 100644 content/post/chapter-3.md
+ create mode 100644 content/post/chapter-4.md
+ create mode 100644 content/post/chapter-5.md
+ create mode 100644 content/post/chapter-6.md
+ create mode 100644 index.Rmd
+ create mode 100644 personal_page.Rproj
+ create mode 100644 public/404.html
+ create mode 100644 public/about/index.html
+ create mode 100644 public/about/index.xml
+ create mode 100644 public/about/page/1/index.html
+ create mode 100644 public/categories/index.html
+ create mode 100644 public/categories/index.xml
+ create mode 100644 public/categories/r/index.html
+ create mode 100644 public/categories/r/index.xml
+ create mode 100644 public/contact/index.html
+ create mode 100644 public/dist/css/app.ab4b67a3ea25990fa8279f3b7ef08b61.css
+ create mode 100644 public/dist/js/app.3fc0f988d21662902933.js
+ create mode 100644 public/images/Pope-Edouard-de-Beaumont-1844.jpg
+ create mode 100644 public/images/Victor_Hugo-Hunchback.jpg
+ create mode 100644 public/images/esmeralda.jpg
+ create mode 100644 public/images/florence.jpg
+ create mode 100644 public/images/gohugo-default-sample-hero-image.jpg
+ create mode 100644 public/index.html
+ create mode 100644 public/index.xml
+ create mode 100644 public/post/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 public/post/2015-07-23-r-rmarkdown/index.html
+ create mode 100644 public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 public/post/chapter-1/index.html
+ create mode 100644 public/post/chapter-2/index.html
+ create mode 100644 public/post/chapter-3/index.html
+ create mode 100644 public/post/chapter-4/index.html
+ create mode 100644 public/post/chapter-5/index.html
+ create mode 100644 public/post/chapter-6/index.html
+ create mode 100644 public/post/index.html
+ create mode 100644 public/post/index.xml
+ create mode 100644 public/post/page/1/index.html
+ create mode 100644 public/post/page/2/index.html
+ create mode 100644 public/post/page/3/index.html
+ create mode 100644 public/robots.txt
+ create mode 100644 public/sitemap.xml
+ create mode 100644 public/tags/index.html
+ create mode 100644 public/tags/index.xml
+ create mode 100644 public/tags/plot/index.html
+ create mode 100644 public/tags/plot/index.xml
+ create mode 100644 public/tags/r-markdown/index.html
+ create mode 100644 public/tags/r-markdown/index.xml
+ create mode 100644 public/tags/regression/index.html
+ create mode 100644 public/tags/regression/index.xml
+ create mode 100644 public/tags/scene/index.html
+ create mode 100644 public/tags/scene/index.xml
+ create mode 100644 static/images/Pope-Edouard-de-Beaumont-1844.jpg
+ create mode 100644 static/images/Victor_Hugo-Hunchback.jpg
+ create mode 100644 static/images/esmeralda.jpg
+ create mode 100644 static/images/florence.jpg
+ create mode 100644 static/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 themes/gohugo-theme-ananke/.gitignore
+ create mode 100644 themes/gohugo-theme-ananke/LICENSE.md
+ create mode 100644 themes/gohugo-theme-ananke/README.md
+ create mode 100644 themes/gohugo-theme-ananke/archetypes/default.md
+ create mode 100644 themes/gohugo-theme-ananke/data/webpack_assets.json
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/config.toml
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/content/_index.md
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/content/about/_index.md
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/content/contact.md
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/content/post/_index.md
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/content/post/chapter-1.md
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/content/post/chapter-2.md
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/content/post/chapter-3.md
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/content/post/chapter-4.md
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/content/post/chapter-5.md
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/content/post/chapter-6.md
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/static/images/Pope-Edouard-de-Beaumont-1844.jpg
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/static/images/Victor_Hugo-Hunchback.jpg
+ create mode 100644 themes/gohugo-theme-ananke/exampleSite/static/images/esmeralda.jpg
+ create mode 100644 themes/gohugo-theme-ananke/images/screenshot.png
+ create mode 100644 themes/gohugo-theme-ananke/images/tn.png
+ create mode 100644 themes/gohugo-theme-ananke/layouts/404.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/_default/baseof.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/_default/list.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/_default/single.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/_default/taxonomy.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/_default/terms.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/index.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/page/single.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/menu-contextual.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/page-header.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/site-favicon.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/site-footer.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/site-header.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/site-navigation.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/site-scripts.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/social-follow.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/summary-with-image.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/summary.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/svg/facebook.svg
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/svg/github.svg
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/svg/instagram.svg
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/svg/linkedin.svg
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/svg/twitter.svg
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/svg/youtube.svg
+ create mode 100644 themes/gohugo-theme-ananke/layouts/partials/tags.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/post/list.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/post/summary-with-image.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/post/summary.html
+ create mode 100644 themes/gohugo-theme-ananke/layouts/robots.txt
+ create mode 100644 themes/gohugo-theme-ananke/layouts/shortcodes/form-contact.html
+ create mode 100644 themes/gohugo-theme-ananke/package.json
+ create mode 100644 themes/gohugo-theme-ananke/src/css/_code.css
+ create mode 100644 themes/gohugo-theme-ananke/src/css/_hugo-internal-templates.css
+ create mode 100644 themes/gohugo-theme-ananke/src/css/_social-icons.css
+ create mode 100644 themes/gohugo-theme-ananke/src/css/_styles.css
+ create mode 100644 themes/gohugo-theme-ananke/src/css/_tachyons.css
+ create mode 100644 themes/gohugo-theme-ananke/src/css/main.css
+ create mode 100644 themes/gohugo-theme-ananke/src/css/postcss.config.js
+ create mode 100644 themes/gohugo-theme-ananke/src/js/main.js
+ create mode 100644 themes/gohugo-theme-ananke/src/package-lock.json
+ create mode 100644 themes/gohugo-theme-ananke/src/package.json
+ create mode 100644 themes/gohugo-theme-ananke/src/readme.md
+ create mode 100644 themes/gohugo-theme-ananke/src/webpack.config.js
+ create mode 100644 themes/gohugo-theme-ananke/src/yarn.lock
+ create mode 100644 themes/gohugo-theme-ananke/static/dist/css/app.ab4b67a3ea25990fa8279f3b7ef08b61.css
+ create mode 100644 themes/gohugo-theme-ananke/static/dist/js/app.3fc0f988d21662902933.js
+ create mode 100644 themes/gohugo-theme-ananke/static/images/gohugo-default-sample-hero-image.jpg
+ create mode 100644 themes/gohugo-theme-ananke/theme.toml
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git commit -m "Initial Website Commit"[13Ppush -u origin master
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/vivekkatial/personal-page.git/'
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git psu[K[Kush
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$     git push --set-upstream origin master
+fatal: cannot run rpostback-askpass: No such file or directory
+Username for 'https://github.com': vivekkatial@gmail.com
+fatal: cannot run rpostback-askpass: No such file or directory
+Password for 'https://vivekkatial@gmail.com@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/vivekkatial/personal-page.git/'
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git push -u origin mastercommit -m "Initial Website Commit"[13Ppush -u origin mastercommit -m "Initial Website Commit"[13Ppush -u origin master[K[Kgit push -u origin master[K[Kgit push --set-upstream origin ms[Kaster
+fatal: cannot run rpostback-askpass: No such file or directory
+Username for 'https://github.com': vivekkatial@gmail.com
+fatal: cannot run rpostback-askpass: No such file or directory
+Password for 'https://vivekkatial@gmail.com@github.com': 
+Counting objects: 208, done.
+Delta compression using up to 8 threads.
+Compressing objects:   0% (1/177)   Compressing objects:   1% (2/177)   Compressing objects:   2% (4/177)   Compressing objects:   3% (6/177)   Compressing objects:   4% (8/177)   Compressing objects:   5% (9/177)   Compressing objects:   6% (11/177)   Compressing objects:   7% (13/177)   Compressing objects:   8% (15/177)   Compressing objects:   9% (16/177)   Compressing objects:  10% (18/177)   Compressing objects:  11% (20/177)   Compressing objects:  12% (22/177)   Compressing objects:  13% (24/177)   Compressing objects:  14% (25/177)   Compressing objects:  15% (27/177)   Compressing objects:  16% (29/177)   Compressing objects:  17% (31/177)   Compressing objects:  18% (32/177)   Compressing objects:  19% (34/177)   Compressing objects:  20% (36/177)   Compressing objects:  21% (38/177)   Compressing objects:  22% (39/177)   Compressing objects:  23% (41/177)   Compressing objects:  24% (43/177)   Compressing objects:  25% (45/177)   Compressing objects:  26% (47/177)   Compressing objects:  27% (48/177)   Compressing objects:  28% (50/177)   Compressing objects:  29% (52/177)   Compressing objects:  30% (54/177)   Compressing objects:  31% (55/177)   Compressing objects:  32% (57/177)   Compressing objects:  33% (59/177)   Compressing objects:  34% (61/177)   Compressing objects:  35% (62/177)   Compressing objects:  36% (64/177)   Compressing objects:  37% (66/177)   Compressing objects:  38% (68/177)   Compressing objects:  39% (70/177)   Compressing objects:  40% (71/177)   Compressing objects:  41% (73/177)   Compressing objects:  42% (75/177)   Compressing objects:  43% (77/177)   Compressing objects:  44% (78/177)   Compressing objects:  45% (80/177)   Compressing objects:  46% (82/177)   Compressing objects:  47% (84/177)   Compressing objects:  48% (85/177)   Compressing objects:  49% (87/177)   Compressing objects:  50% (89/177)   Compressing objects:  51% (91/177)   Compressing objects:  52% (93/177)   Compressing objects:  53% (94/177)   Compressing objects:  54% (96/177)   Compressing objects:  55% (98/177)   Compressing objects:  56% (100/177)   Compressing objects:  57% (101/177)   Compressing objects:  58% (103/177)   Compressing objects:  59% (105/177)   Compressing objects:  60% (107/177)   Compressing objects:  61% (108/177)   Compressing objects:  62% (110/177)   Compressing objects:  63% (112/177)   Compressing objects:  64% (114/177)   Compressing objects:  65% (116/177)   Compressing objects:  66% (117/177)   Compressing objects:  67% (119/177)   Compressing objects:  68% (121/177)   Compressing objects:  69% (123/177)   Compressing objects:  70% (124/177)   Compressing objects:  71% (126/177)   Compressing objects:  72% (128/177)   Compressing objects:  73% (130/177)   Compressing objects:  74% (131/177)   Compressing objects:  75% (133/177)   Compressing objects:  76% (135/177)   Compressing objects:  77% (137/177)   Compressing objects:  78% (139/177)   Compressing objects:  79% (140/177)   Compressing objects:  80% (142/177)   Compressing objects:  81% (144/177)   Compressing objects:  82% (146/177)   Compressing objects:  83% (147/177)   Compressing objects:  84% (149/177)   Compressing objects:  85% (151/177)   Compressing objects:  86% (153/177)   Compressing objects:  87% (154/177)   Compressing objects:  88% (156/177)   Compressing objects:  89% (158/177)   Compressing objects:  90% (160/177)   Compressing objects:  91% (162/177)   Compressing objects:  92% (163/177)   Compressing objects:  93% (165/177)   Compressing objects:  94% (167/177)   Compressing objects:  95% (169/177)   Compressing objects:  96% (170/177)   Compressing objects:  97% (172/177)   Compressing objects:  98% (174/177)   Compressing objects:  99% (176/177)   Compressing objects: 100% (177/177)   Compressing objects: 100% (177/177), done.
+Writing objects:   0% (1/208)   Writing objects:   1% (4/208)   Writing objects:   2% (5/208)   Writing objects:   3% (7/208)   Writing objects:   4% (9/208)   Writing objects:   5% (11/208)   Writing objects:   6% (13/208)   Writing objects:   7% (15/208)   Writing objects:   8% (17/208)   Writing objects:   9% (19/208)   Writing objects:  10% (21/208)   Writing objects:  11% (23/208)   Writing objects:  12% (25/208)   Writing objects:  13% (28/208)   Writing objects:  14% (30/208)   Writing objects:  15% (32/208)   Writing objects:  16% (34/208)   Writing objects:  17% (36/208)   Writing objects:  18% (38/208)   Writing objects:  19% (40/208)   Writing objects:  20% (42/208)   Writing objects:  21% (44/208)   Writing objects:  22% (46/208)   Writing objects:  23% (48/208)   Writing objects:  24% (50/208)   Writing objects:  25% (52/208)   Writing objects:  26% (55/208)   Writing objects:  27% (57/208)   Writing objects:  28% (59/208)   Writing objects:  29% (61/208)   Writing objects:  30% (63/208)   Writing objects:  32% (67/208)   Writing objects:  33% (69/208)   Writing objects:  34% (72/208)   Writing objects:  35% (73/208)   Writing objects:  36% (75/208)   Writing objects:  37% (77/208)   Writing objects:  38% (80/208)   Writing objects:  39% (83/208)   Writing objects:  40% (84/208)   Writing objects:  41% (86/208)   Writing objects:  41% (87/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  42% (88/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  43% (90/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  44% (92/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  45% (94/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  46% (96/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  47% (98/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  48% (100/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  49% (102/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  50% (104/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  51% (108/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  52% (109/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  53% (111/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  54% (113/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  55% (115/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  56% (118/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  57% (119/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  58% (121/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  59% (123/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  60% (125/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  61% (127/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  62% (129/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  63% (132/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  64% (134/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  65% (136/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  66% (138/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  67% (140/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  68% (142/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  69% (144/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  70% (146/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  71% (148/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  72% (150/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  73% (152/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  74% (154/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  75% (156/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  76% (159/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  77% (161/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  78% (163/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  79% (165/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  80% (167/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  81% (169/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  82% (171/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  83% (173/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  84% (176/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  85% (177/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  86% (179/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  87% (181/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  88% (184/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  89% (186/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  90% (188/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  91% (190/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  92% (192/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  93% (194/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  94% (196/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  95% (198/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  96% (200/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  97% (202/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  98% (204/208), 1.07 MiB | 389.00 KiB/s   Writing objects:  99% (206/208), 1.07 MiB | 389.00 KiB/s   Writing objects: 100% (208/208), 1.07 MiB | 389.00 KiB/s   Writing objects: 100% (208/208), 1.83 MiB | 606.00 KiB/s, done.
+Total 208 (delta 39), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/39)   [Kremote: Resolving deltas:   2% (1/39)   [Kremote: Resolving deltas:  10% (4/39)   [Kremote: Resolving deltas:  12% (5/39)   [Kremote: Resolving deltas:  15% (6/39)   [Kremote: Resolving deltas:  35% (14/39)   [Kremote: Resolving deltas:  38% (15/39)   [Kremote: Resolving deltas:  56% (22/39)   [Kremote: Resolving deltas:  82% (32/39)   [Kremote: Resolving deltas:  87% (34/39)   [Kremote: Resolving deltas:  89% (35/39)   [Kremote: Resolving deltas:  92% (36/39)   [Kremote: Resolving deltas:  94% (37/39)   [Kremote: Resolving deltas:  97% (38/39)   [Kremote: Resolving deltas: 100% (39/39)   [Kremote: Resolving deltas: 100% (39/39), done.[K
+To https://github.com/vivekkatial/personal-page.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git push --set-upstream origin master[K -u origin mastercommit -m "Initial Website Commit"[13Ppush -u origin masterstatus[Kadd -Astatusadd -A

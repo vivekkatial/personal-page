@@ -1,5 +1,5 @@
 title = "Vivek Katial"
-baseURL = "https://vivekkatial.github.io"
+baseURL = "https://vivekkatial.netlify.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
