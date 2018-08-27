@@ -1,2 +1,18 @@
 vi .gitignore 
 ]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ vi .gitignore ls[Kagit pushcommit -m "Initial Website Commit"add -A[K
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git add -Avi .gitignore ls[Kagit pushcommit -m "Initial Website Commit"
+[master 00ef79e] Initial Website Commit
+ 3 files changed, 5 insertions(+), 172 deletions(-)
+ rewrite .Rproj.user/503B2E7/console06/269A39AD (99%)
+ rewrite .Rproj.user/503B2E7/console06/INDEX001 (71%)
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git commit -m "Initial Website Commit"add -A[Kvi .gitignore ls[Kagit push
+Counting objects: 8, done.
+Delta compression using up to 8 threads.
+Compressing objects:  12% (1/8)   Compressing objects:  25% (2/8)   Compressing objects:  37% (3/8)   Compressing objects:  50% (4/8)   Compressing objects:  62% (5/8)   Compressing objects:  75% (6/8)   Compressing objects:  87% (7/8)   Compressing objects: 100% (8/8)   Compressing objects: 100% (8/8), done.
+Writing objects:  12% (1/8)   Writing objects:  25% (2/8)   Writing objects:  37% (3/8)   Writing objects:  50% (4/8)   Writing objects:  62% (5/8)   Writing objects:  75% (6/8)   Writing objects:  87% (7/8)   Writing objects: 100% (8/8)   Writing objects: 100% (8/8), 829 bytes | 829.00 KiB/s, done.
+Total 8 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To https://github.com/vivekkatial/personal-page.git
+   d29b996..00ef79e  master -> master
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git pushcommit -m "Initial Website Commit"add -A[K
+]7;file://Viveks-MacBook-Pro.local/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageViveks-MacBook-Pro:personal_page vivekkatial$ git add -A[2Ppushadd -A

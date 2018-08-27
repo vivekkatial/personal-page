@@ -5,11 +5,10 @@ type: page
 featured_image: "/images/space-bg.jpeg"
 menu:
   main: {}
-
 ---
 
 
-Social media links are in the header otherwise fill out the form below. I have used netlifys form service to make the form so they will ask you to confirm your email.
+Social media links are in the header otherwise fill out the form below.
 
 <form name="contact" method="POST" netlify>
   <p>
@@ -21,7 +20,6 @@ Social media links are in the header otherwise fill out the form below. I have u
   <p>
     <label>Message: <textarea name="message"></textarea></label>
   </p>
-  <div data-netlify-recaptcha></div>
   <p>
     <button type="submit">Send</button>
   </p>
