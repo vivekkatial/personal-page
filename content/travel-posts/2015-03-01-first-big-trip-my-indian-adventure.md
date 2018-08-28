@@ -65,7 +65,7 @@ Singapore has an awesome public transport system, making navigating and travelli
 
 I land in India and the first thing I notice is a thick layer of pollution cloud resting over Delhi. I make my way through the chaotic airport, pick up a few bottles of Glenlivet and head out of the airport to get picked up by my cousin Nipun and his fiance, Chinky.
 
-The next few days go into helping out with the wedding, picking up guests and doing lots of shopping. An Indian wedding is an extraorbitant affair, spreading over 5 days. Each day is a different function, and as such require a different set of clothes and consist of different activities. However, one thing remains consistent: The mornings are meant for recovery from the previous nights escapades, the afternoons are filled with ancient hindu rituals coupled with endless laughter and banter within the family and finally the evenings with dancing, eating and a whole lot of drinking (especially at Punjabi weddings).
+The next few days go into helping out with the wedding, picking up guests and doing lots of shopping. An Indian wedding is an extraorbitant affair, spreading over 5 days. Each day is a different function, and as such requires a different set of clothes and consists of different activities. However, one thing remains consistent: The mornings are meant for recovery from the previous nights escapades, the afternoons are filled with ancient hindu rituals coupled with endless laughter and banter within the family and finally the evenings with dancing, eating and a whole lot of drinking (especially at Punjabi weddings).
 
 Nipuns wedding was an incredibly fun experience and it was great catching up with the entire family who flew in from all over the world to celebrate in India. 
 

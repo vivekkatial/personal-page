@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vivek Katial</title>
-    <link>/</link>
+    <link>https://vivekkatial.netlify.com/</link>
     <description>Recent content on Vivek Katial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Jul 2018 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vivekkatial.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test R Markdown Script</title>
-      <link>/tech-posts/2015-07-23-r-rmarkdown/</link>
+      <link>https://vivekkatial.netlify.com/tech-posts/2015-07-23-r-rmarkdown/</link>
       <pubDate>Mon, 23 Jul 2018 21:13:14 -0500</pubDate>
       
-      <guid>/tech-posts/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://vivekkatial.netlify.com/tech-posts/2015-07-23-r-rmarkdown/</guid>
       <description>Here is a test markdown document This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
@@ -24,30 +24,30 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>First big trip - My Indian Adventure: Part 2</title>
-      <link>/travel-posts/first-big-trip-my-indian-adventure-part2/</link>
+      <link>https://vivekkatial.netlify.com/travel-posts/first-big-trip-my-indian-adventure-part2/</link>
       <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/travel-posts/first-big-trip-my-indian-adventure-part2/</guid>
+      <guid>https://vivekkatial.netlify.com/travel-posts/first-big-trip-my-indian-adventure-part2/</guid>
       <description> Jullay! Welcome to part 2 of my India series. This is post two, where I&amp;rsquo;ll talk about my journey around Ladakh with my dear friend Vivan, Ankits wedding, Mumbai, my craziest new years experience ever in Goa and then chilling out in Hampi.
 Leh/Ladakh Wedding 2&amp;frasl;3 Mumbai Goa </description>
     </item>
     
     <item>
       <title>First big trip - My Indian Adventure: Part 1</title>
-      <link>/travel-posts/first-big-trip-my-indian-adventure/</link>
+      <link>https://vivekkatial.netlify.com/travel-posts/first-big-trip-my-indian-adventure/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/travel-posts/first-big-trip-my-indian-adventure/</guid>
+      <guid>https://vivekkatial.netlify.com/travel-posts/first-big-trip-my-indian-adventure/</guid>
       <description>Since this was a really long trip I am going to divide up into four blog posts. This is post one.
 How it all started? I was in my 2nd year of University studying a BE(Hons)/BSc conjoint. I really should&amp;rsquo;ve been looking for a summer internship, but two of my close-family members were getting hitched! There was no way I could&amp;rsquo;ve missed either of their weddings and it was the perfect excuse for me to go travel.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://vivekkatial.netlify.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://vivekkatial.netlify.com/contact/</guid>
       <description>Social media links are in the header otherwise fill out the form below.
  Your Name:   Your Email:   Message:   Send  </description>
     </item>
