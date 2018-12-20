@@ -3,103 +3,110 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vivekkatial.netlify.com/tech-posts/2015-07-23-r-rmarkdown/</loc>
+    <loc>/travel-posts/katial-family-mutton-recipe/</loc>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/tech-posts/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2018-07-23T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/tech-posts/</loc>
+    <loc>/tech-posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/travel-posts/</loc>
+    <loc>/travel-posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/travel-posts/first-big-trip-my-indian-adventure-part2/</loc>
+    <loc>/travel-posts/first-big-trip-my-indian-adventure-part2/</loc>
     <lastmod>2015-03-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/travel-posts/first-big-trip-my-indian-adventure/</loc>
+    <loc>/travel-posts/first-big-trip-my-indian-adventure/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/about/</loc>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/contact/</loc>
+    <loc>/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2018-07-23T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2018-07-23T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2018-07-23T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2018-07-23T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2018-07-23T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/tags/travel/</loc>
+    <loc>/tags/travel/</loc>
     <lastmod>2015-03-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vivekkatial.netlify.com/</loc>
-    <lastmod>2018-07-23T21:13:14-05:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

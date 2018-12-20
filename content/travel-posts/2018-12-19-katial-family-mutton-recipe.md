@@ -52,7 +52,7 @@ featured_image: '/images/travel/cookedmeat.jpg'
   8. Cook the added cooking masala for 3 to 4 minutes
   9. Add the mutton and heavily mix into the masala and the mutton masala at the same time.
   ![Brown meat](/images/travel/bhunameat.jpg)
-  10. Mix and cook for approximately 30 minutes on medium (if getting to dry add water to your liking)
+  10. Mix and cook for approximately 30 minutes on medium (if getting to dry add water to your liking). You will know the meat is cooked when oil/ghee begins to fall off the meat.
   ![Brown meat](/images/travel/readymeat.jpg)
   11. Add 750 ml of water to make the curry
   ![Added water](/images/travel/addedwater.jpg)
