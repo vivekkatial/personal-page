@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vivek Katial</title>
-    <link>/</link>
+    <link>https://vivekkatial.netlify.com/</link>
     <description>Recent content on Vivek Katial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vivekkatial.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Katial Family - Mutton Recipe</title>
-      <link>/travel-posts/katial-family-mutton-recipe/</link>
+      <link>https://vivekkatial.netlify.com/travel-posts/katial-family-mutton-recipe/</link>
       <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/travel-posts/katial-family-mutton-recipe/</guid>
+      <guid>https://vivekkatial.netlify.com/travel-posts/katial-family-mutton-recipe/</guid>
       <description>Ingredients Main ingredients  1 kg Mutton (rib and spine) 8 Onion 15 to 20 Garlic cloves 1.5 cups Sunflower Oil 300g Tomatoes 2 to 3 Green chilli 100g coriander 2 Teaspoon mutton masala 750 mL Water  Base Masala  2 Cardamom 2 Curry Leaves 1 Cinnamon stick 4 Cloves 1 Large cardamom  Cooking Masala  1 tbsp Tumeric 2.5 tbsp Salt 1 tbsp Red Chilli Powder 2 tbsp Garam Masala 1 teaspoon Kasoori Methi 1 teaspoon deggi mirch (optional for color) 2 tbsp unsweetened yogurt  Cooking Instructions  Finely chop onions and garlic cloves Preheat oil for about 5 minutes on medium Add base masala mix as raw into the pressure cooker  Add chopped garlic and onion and mix till brown (15 mins approx)  Add tomatoes and chilli into a blended mix Once brown add cooking masala (see above) and mix well Add the tomato and chilli blend (if too thick add water to your preference) Cook the added cooking masala for 3 to 4 minutes Add the mutton and heavily mix into the masala and the mutton masala at the same time.</description>
     </item>
     
     <item>
       <title>Test R Markdown Script</title>
-      <link>/tech-posts/2015-07-23-r-rmarkdown/</link>
+      <link>https://vivekkatial.netlify.com/tech-posts/2015-07-23-r-rmarkdown/</link>
       <pubDate>Mon, 23 Jul 2018 21:13:14 -0500</pubDate>
       
-      <guid>/tech-posts/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://vivekkatial.netlify.com/tech-posts/2015-07-23-r-rmarkdown/</guid>
       <description>Here is a test markdown document This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
@@ -33,30 +33,30 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>First big trip - My Indian Adventure: Part 2</title>
-      <link>/travel-posts/first-big-trip-my-indian-adventure-part2/</link>
+      <link>https://vivekkatial.netlify.com/travel-posts/first-big-trip-my-indian-adventure-part2/</link>
       <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/travel-posts/first-big-trip-my-indian-adventure-part2/</guid>
+      <guid>https://vivekkatial.netlify.com/travel-posts/first-big-trip-my-indian-adventure-part2/</guid>
       <description>Jullay! Welcome to part 2 of my India series. This is post two, where I&amp;rsquo;ll talk about my journey around Ladakh with my dear friend Vivan, Ankits wedding, Mumbai, my craziest new years experience ever in Goa and then chilling out in Hampi.
 Leh/Ladakh The Journey I had just come out of an incredible 5 days at Nipuns wedding and my body was shattered, I was hungover, full of food and was lying in my bed with my head still pounding.</description>
     </item>
     
     <item>
       <title>First big trip - My Indian Adventure: Part 1</title>
-      <link>/travel-posts/first-big-trip-my-indian-adventure/</link>
+      <link>https://vivekkatial.netlify.com/travel-posts/first-big-trip-my-indian-adventure/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/travel-posts/first-big-trip-my-indian-adventure/</guid>
+      <guid>https://vivekkatial.netlify.com/travel-posts/first-big-trip-my-indian-adventure/</guid>
       <description>Since this was a really long trip I am going to divide up into four blog posts. This is post one.
 How it all started? I was in my 2nd year of University studying a BE(Hons)/BSc conjoint. I really should&amp;rsquo;ve been looking for a summer internship, but two of my close-family members were getting hitched! There was no way I could&amp;rsquo;ve missed either of their weddings and it was the perfect excuse for me to go travel.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://vivekkatial.netlify.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://vivekkatial.netlify.com/contact/</guid>
       <description>Social media links are in the header otherwise fill out the form below.
  Your Name:   Your Email:   Message:   Send  </description>
     </item>
