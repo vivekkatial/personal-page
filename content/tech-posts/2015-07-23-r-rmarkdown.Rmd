@@ -9,6 +9,7 @@ tags: ["R Markdown", "plot", "regression"]
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
+library(tidyverse)
 ```
 
 # Here is a test markdown document
