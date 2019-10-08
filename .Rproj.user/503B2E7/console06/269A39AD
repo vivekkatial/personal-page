@@ -6,61 +6,12 @@ Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git checkout -- <file>..." to discard changes in working directory)
 
-	[31mmodified:   .Rhistory[m
 	[31mmodified:   .Rproj.user/503B2E7/console06/269A39AD[m
 	[31mmodified:   .Rproj.user/503B2E7/console06/269A39AD.env[m
 	[31mmodified:   .Rproj.user/503B2E7/console06/INDEX001[m
-	[31mmodified:   .Rproj.user/503B2E7/sources/prop/C8879AB1[m
-	[31mmodified:   .Rproj.user/503B2E7/sources/prop/E05B8B03[m
-	[31mmodified:   .Rproj.user/503B2E7/sources/prop/INDEX[m
 	[31mmodified:   .Rproj.user/shared/notebooks/paths[m
-	[31mmodified:   content/about/_index.md[m
-	[31mmodified:   content/travel-posts/2015-03-02-first-big-trip-my-indian-adventure-part2.md[m
-	[31mmodified:   public/404.html[m
-	[31mmodified:   public/about/index.html[m
-	[31mmodified:   public/about/index.xml[m
-	[31mmodified:   public/about/page/1/index.html[m
-	[31mmodified:   public/categories/index.html[m
-	[31mmodified:   public/categories/index.xml[m
-	[31mmodified:   public/categories/r/index.html[m
-	[31mmodified:   public/categories/r/index.xml[m
-	[31mmodified:   public/contact/index.html[m
-	[31mmodified:   public/index.html[m
-	[31mmodified:   public/index.xml[m
-	[31mmodified:   public/sitemap.xml[m
-	[31mmodified:   public/tags/index.html[m
-	[31mmodified:   public/tags/index.xml[m
-	[31mmodified:   public/tags/plot/index.html[m
-	[31mmodified:   public/tags/plot/index.xml[m
-	[31mmodified:   public/tags/r-markdown/index.html[m
-	[31mmodified:   public/tags/r-markdown/index.xml[m
-	[31mmodified:   public/tags/regression/index.html[m
-	[31mmodified:   public/tags/regression/index.xml[m
-	[31mmodified:   public/tags/travel/index.html[m
-	[31mmodified:   public/tags/travel/index.xml[m
-	[31mmodified:   public/tech-posts/2015-07-23-r-rmarkdown/index.html[m
-	[31mmodified:   public/tech-posts/index.html[m
-	[31mmodified:   public/tech-posts/index.xml[m
-	[31mmodified:   public/tech-posts/page/1/index.html[m
-	[31mmodified:   public/travel-posts/first-big-trip-my-indian-adventure-part2/index.html[m
-	[31mmodified:   public/travel-posts/first-big-trip-my-indian-adventure/index.html[m
-	[31mmodified:   public/travel-posts/index.html[m
-	[31mmodified:   public/travel-posts/index.xml[m
-	[31mmodified:   public/travel-posts/page/1/index.html[m
+	[31mmodified:   content/tech-posts/2015-07-23-r-rmarkdown.Rmd[m
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31mhighcharter_data.csv[m
-	[31mpublic/images/travel/addedwater.jpg[m
-	[31mpublic/images/travel/anjuchachi.jpg[m
-	[31mpublic/images/travel/bhunameat.jpg[m
-	[31mpublic/images/travel/brownonions.jpg[m
-	[31mpublic/images/travel/choppedonions.jpg[m
-	[31mpublic/images/travel/cookedmeat.jpg[m
-	[31mpublic/images/travel/readymeat.jpg[m
-	[31mpublic/travel-posts/katial-family-mutton-recipe/[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]7;file://wifi-guest-172-24-69-71.net.auckland.ac.nz/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pagewifi-guest-172-24-69-71:personal_page vivekkatial$ git add -A
-]7;file://wifi-guest-172-24-69-71.net.auckland.ac.nz/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pagewifi-guest-172-24-69-71:personal_page vivekkatial$ git commit -a -m "added update to trave;[Kl"
+no changes added to commit (use "git add" and/or "git commit -a")
+]7;file://viveks-mbp.mobility.unimelb.net.au/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageviveks-mbp:personal_page vivekkatial$ git  add cp[K[K.
+]7;file://viveks-mbp.mobility.unimelb.net.au/Users/vivekkatial/Documents/personal_page]0;~/Documents/personal_pageviveks-mbp:personal_page vivekkatial$ co[K[Kgit commit -a -m '[K'added a ggplot thing'
